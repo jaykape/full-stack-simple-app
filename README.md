@@ -1,2 +1,2 @@
 # full-stack-simple-app
-full stack simple app using flask backend
+full stack simple app using Go backend
